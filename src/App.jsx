@@ -1,12 +1,10 @@
-import "./App.css";
-import User from "./state/Users";
+import Card from "./COMONENTS/Card";
 
 function App() {
   return (
     <>
       <div>
-        <User />
-        <h1>Hi</h1>
+        <Card />
       </div>
     </>
   );
