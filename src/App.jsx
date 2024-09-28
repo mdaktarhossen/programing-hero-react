@@ -1,10 +1,10 @@
-import Card from "./COMONENTS/Card";
+import Keeper from "./COMPONENTS/Keeper";
 
 function App() {
   return (
     <>
       <div>
-        <Card />
+        <Keeper />
       </div>
     </>
   );
